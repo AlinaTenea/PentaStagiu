@@ -1,0 +1,2 @@
+# PentaStagiu
+QA-Automation
